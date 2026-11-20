@@ -1,0 +1,1460 @@
+{
+  "school": {
+    "name": "Delahio Public School",
+    "branch": "Bengaluru - Indiranagar Campus",
+    "academicYear": "2025-26",
+    "currency": "INR",
+    "feeCycle": "Quarterly"
+  },
+  "students": [
+    {
+      "id": "STU-2025-001",
+      "rollNo": 801,
+      "name": "Aarav Sharma",
+      "className": "8",
+      "section": "A",
+      "parentName": "Rajesh Sharma",
+      "phone": "+91 98450 11201",
+      "address": "No. 42, 3rd Main, Jayanagar 4th Block, Bengaluru - 560041, Karnataka",
+      "admissionDate": "2023-06-12",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 38000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 19000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0001"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 19000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0002"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-002",
+      "rollNo": 802,
+      "name": "Diya Nair",
+      "className": "8",
+      "section": "B",
+      "parentName": "Suresh Nair",
+      "phone": "+91 98450 11202",
+      "address": "No. 18, 12th Cross, Indiranagar 2nd Stage, Bengaluru - 560038, Karnataka",
+      "admissionDate": "2023-06-14",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 25,
+      "lateFine": 0,
+      "paidAmount": 18000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 9000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0003"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 9000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0004"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-003",
+      "rollNo": 803,
+      "name": "Rohan Verma",
+      "className": "8",
+      "section": "A",
+      "parentName": "Anil Verma",
+      "phone": "+91 98450 11203",
+      "address": "B-704, Prestige Palms, Whitefield Main Road, Bengaluru - 560066, Karnataka",
+      "admissionDate": "2023-06-19",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 0,
+      "lateFine": 500,
+      "paidAmount": 20000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 10000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0005"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 10000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0006"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-004",
+      "rollNo": 804,
+      "name": "Ananya Iyer",
+      "className": "8",
+      "section": "C",
+      "parentName": "Sriram Iyer",
+      "phone": "+91 98450 11204",
+      "address": "No. 7, 8th Cross, Malleshwaram, Bengaluru - 560003, Karnataka",
+      "admissionDate": "2023-06-21",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 34200,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 17100,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0007"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 17100,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0008"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-005",
+      "rollNo": 805,
+      "name": "Kabir Menon",
+      "className": "8",
+      "section": "B",
+      "parentName": "Prakash Menon",
+      "phone": "+91 98450 11205",
+      "address": "Flat 201, Sara Residency, 5th Block Koramangala, Bengaluru - 560095, Karnataka",
+      "admissionDate": "2023-06-26",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 0,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": []
+    },
+    {
+      "id": "STU-2025-006",
+      "rollNo": 806,
+      "name": "Sneha Reddy",
+      "className": "8",
+      "section": "A",
+      "parentName": "Mohan Reddy",
+      "phone": "+91 98450 11206",
+      "address": "No. 56, 27th Main, HSR Layout Sector 1, Bengaluru - 560102, Karnataka",
+      "admissionDate": "2023-07-03",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 0,
+      "lateFine": 250,
+      "paidAmount": 38250,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 19125,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0009"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 19125,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0010"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-007",
+      "rollNo": 1007,
+      "name": "Venkatanarasimharajuvaripeta Subramanium",
+      "className": "10",
+      "section": "A",
+      "parentName": "Venkatesh Subramanium",
+      "phone": "+91 98450 11207",
+      "address": "Flat 12, Sri Venkatanarasimharajuvaripeta Residency, 3rd Cross, 2nd Main Road, Behind the State Bank of India ATM, Opposite the Old Bus Stand, Near the Water Tank, Ward 47, Bengaluru - 560043, Karnataka",
+      "admissionDate": "2021-06-09",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 10,
+      "lateFine": 1200,
+      "paidAmount": 24000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-04-05",
+          "amount": 1600,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0011"
+        },
+        {
+          "date": "2025-05-06",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0012"
+        },
+        {
+          "date": "2025-06-07",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0013"
+        },
+        {
+          "date": "2025-07-08",
+          "amount": 1600,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0014"
+        },
+        {
+          "date": "2025-08-09",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0015"
+        },
+        {
+          "date": "2025-09-10",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0016"
+        },
+        {
+          "date": "2025-10-11",
+          "amount": 1600,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0017"
+        },
+        {
+          "date": "2025-11-12",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0018"
+        },
+        {
+          "date": "2025-12-13",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0019"
+        },
+        {
+          "date": "2025-01-14",
+          "amount": 1600,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0020"
+        },
+        {
+          "date": "2025-02-15",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0021"
+        },
+        {
+          "date": "2025-03-16",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0022"
+        },
+        {
+          "date": "2026-04-17",
+          "amount": 1600,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2026-0023"
+        },
+        {
+          "date": "2026-05-18",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2026-0024"
+        },
+        {
+          "date": "2026-06-19",
+          "amount": 1600,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2026-0025"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-008",
+      "rollNo": 908,
+      "name": "Arjun Rao",
+      "className": "9",
+      "section": "A",
+      "parentName": "Vikram Rao",
+      "phone": "+91 98450 11208",
+      "address": "No. 91, 4th Block, Rajajinagar, Bengaluru - 560010, Karnataka",
+      "admissionDate": "2022-06-10",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 42000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 21000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0026"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 21000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0027"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-009",
+      "rollNo": 909,
+      "name": "Tanvi Desai",
+      "className": "9",
+      "section": "B",
+      "parentName": "Hitesh Desai",
+      "phone": "+91 98450 11209",
+      "address": "Flat 4C, Lake View Apartments, JP Nagar 6th Phase, Bengaluru - 560078, Karnataka",
+      "admissionDate": "2022-06-13",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 0,
+      "lateFine": 500,
+      "paidAmount": 30000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 15000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0028"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 15000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0029"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-010",
+      "rollNo": 910,
+      "name": "Siddharth Joshi",
+      "className": "9",
+      "section": "A",
+      "parentName": "Mahesh Joshi",
+      "phone": "+91 98450 11210",
+      "address": "No. 23, 1st Main, Basavanagudi, Bengaluru - 560004, Karnataka",
+      "admissionDate": "2022-06-15",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 0,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": []
+    },
+    {
+      "id": "STU-2025-011",
+      "rollNo": 911,
+      "name": "Priya Choudhary",
+      "className": "9",
+      "section": "C",
+      "parentName": "Sanjay Choudhary",
+      "phone": "+91 98450 11211",
+      "address": "No. 3, 2nd Cross, Kammanahalli, Bengaluru - 560084, Karnataka",
+      "admissionDate": "2022-06-20",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 25,
+      "lateFine": 0,
+      "paidAmount": 31500,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 15750,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0030"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 15750,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0031"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-012",
+      "rollNo": 912,
+      "name": "Nikhil Shetty",
+      "className": "9",
+      "section": "B",
+      "parentName": "Ramesh Shetty",
+      "phone": "+91 98450 11212",
+      "address": "No. 77, 5th Main, Yelahanka New Town, Bengaluru - 560064, Karnataka",
+      "admissionDate": "2022-06-22",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 21000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 10500,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0032"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 10500,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0033"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-013",
+      "rollNo": 913,
+      "name": "Riya Agarwal",
+      "className": "9",
+      "section": "C",
+      "parentName": "Deepak Agarwal",
+      "phone": "+91 98450 11213",
+      "address": "Staff Quarters, Block C, Delahio School Campus, Bengaluru - 560043, Karnataka",
+      "admissionDate": "2022-06-27",
+      "feePlan": "Staff Ward Concession",
+      "tuition": 12500,
+      "scholarshipPct": 50,
+      "lateFine": 0,
+      "paidAmount": 8750,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 4375,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0034"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 4375,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0035"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-014",
+      "rollNo": 1014,
+      "name": "Harsh Patel",
+      "className": "10",
+      "section": "A",
+      "parentName": "Nilesh Patel",
+      "phone": "+91 98450 11214",
+      "address": "No. 15, 9th Main, Banashankari 2nd Stage, Bengaluru - 560070, Karnataka",
+      "admissionDate": "2021-06-11",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 48000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 24000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0036"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 24000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0037"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-015",
+      "rollNo": 1015,
+      "name": "Kavya Krishnan",
+      "className": "10",
+      "section": "C",
+      "parentName": "Suresh Krishnan",
+      "phone": "+91 98450 11215",
+      "address": "Flat 302, Sai Residency, Kondapur, Hyderabad - 500084, Telangana",
+      "admissionDate": "2021-06-14",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 25,
+      "lateFine": 0,
+      "paidAmount": 36000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 18000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0038"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 18000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0039"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-016",
+      "rollNo": 1016,
+      "name": "Manav Bhatt",
+      "className": "10",
+      "section": "B",
+      "parentName": "Jignesh Bhatt",
+      "phone": "+91 98450 11216",
+      "address": "No. 88, 3rd Main, Vijayanagar, Bengaluru - 560040, Karnataka",
+      "admissionDate": "2021-06-18",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 0,
+      "lateFine": 500,
+      "paidAmount": 27500,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 13750,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0040"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 13750,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0041"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-017",
+      "rollNo": 1017,
+      "name": "Anjali Mishra",
+      "className": "10",
+      "section": "A",
+      "parentName": "Rakesh Mishra",
+      "phone": "+91 98450 11217",
+      "address": "No. 12, 6th Cross, Hebbal Kempapura, Bengaluru - 560024, Karnataka",
+      "admissionDate": "2021-06-21",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 0,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": []
+    },
+    {
+      "id": "STU-2025-018",
+      "rollNo": 1018,
+      "name": "Devansh Kapoor",
+      "className": "10",
+      "section": "B",
+      "parentName": "Rohit Kapoor",
+      "phone": "+91 98450 11218",
+      "address": "Flat 1104, Sobha Dream Acres, Panathur Road, Bengaluru - 560087, Karnataka",
+      "admissionDate": "2021-06-23",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 35000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 17500,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0042"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 17500,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0043"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-019",
+      "rollNo": 1019,
+      "name": "Aisha Khan",
+      "className": "10",
+      "section": "C",
+      "parentName": "Imran Khan",
+      "phone": "+91 98450 11219",
+      "address": "No. 31, 4th Cross, Frazer Town, Bengaluru - 560005, Karnataka",
+      "admissionDate": "2021-06-28",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 50,
+      "lateFine": 0,
+      "paidAmount": 24000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 12000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0044"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 12000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0045"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-020",
+      "rollNo": 1020,
+      "name": "Yash Malhotra",
+      "className": "10",
+      "section": "A",
+      "parentName": "Vivek Malhotra",
+      "phone": "+91 98450 11220",
+      "address": "No. 9, 11th Main, Sadashivanagar, Bengaluru - 560080, Karnataka",
+      "admissionDate": "2021-07-01",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 0,
+      "lateFine": 1200,
+      "paidAmount": 30000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 15000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0046"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 15000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0047"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-021",
+      "rollNo": 1021,
+      "name": "Pooja Hegde",
+      "className": "10",
+      "section": "B",
+      "parentName": "Shankar Hegde",
+      "phone": "+91 98450 11221",
+      "address": "No. 44, 2nd Main, BTM Layout Stage 2, Bengaluru - 560076, Karnataka",
+      "admissionDate": "2021-07-05",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 48000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 24000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0048"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 24000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0049"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-022",
+      "rollNo": 1022,
+      "name": "Rithvik Shenoy",
+      "className": "10",
+      "section": "C",
+      "parentName": "Ganesh Shenoy",
+      "phone": "+91 98450 11222",
+      "address": "No. 6, 7th Cross, Kumara Park West, Bengaluru - 560020, Karnataka",
+      "admissionDate": "2021-07-08",
+      "feePlan": "Standard",
+      "tuition": 48000,
+      "scholarshipPct": 10,
+      "lateFine": 250,
+      "paidAmount": 25000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 12500,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0050"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 12500,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0051"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-023",
+      "rollNo": 1223,
+      "name": "Neha Bansal",
+      "className": "12",
+      "section": "A",
+      "parentName": "Ashok Bansal",
+      "phone": "+91 98450 11223",
+      "address": "No. 21, 5th Block, Jayanagar, Bengaluru - 560041, Karnataka",
+      "admissionDate": "2019-06-10",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 56000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 28000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0052"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 28000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0053"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-024",
+      "rollNo": 1224,
+      "name": "Sameer Qureshi",
+      "className": "12",
+      "section": "B",
+      "parentName": "Faisal Qureshi",
+      "phone": "+91 98450 11224",
+      "address": "No. 63, 3rd Cross, Shivajinagar, Bengaluru - 560051, Karnataka",
+      "admissionDate": "2019-06-12",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 0,
+      "lateFine": 500,
+      "paidAmount": 40000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 20000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0054"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 20000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0055"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-025",
+      "rollNo": 1225,
+      "name": "Lakshmi Narayan",
+      "className": "12",
+      "section": "A",
+      "parentName": "Ganesh Narayan",
+      "phone": "+91 98450 11225",
+      "address": "No. 5, 8th Main, Malleshwaram West, Bengaluru - 560055, Karnataka",
+      "admissionDate": "2019-06-14",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 50400,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 25200,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0056"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 25200,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0057"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-026",
+      "rollNo": 1226,
+      "name": "Rohit Chandra",
+      "className": "12",
+      "section": "A",
+      "parentName": "Sunil Chandra",
+      "phone": "+91 98450 11226",
+      "address": "Flat 8B, Diamond District, Domlur, Bengaluru - 560071, Karnataka",
+      "admissionDate": "2019-06-18",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 28000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 14000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0058"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 14000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0059"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-027",
+      "rollNo": 1227,
+      "name": "Ananya Bhat",
+      "className": "12",
+      "section": "C",
+      "parentName": "Raghavendra Bhat",
+      "phone": "+91 98450 11227",
+      "address": "No. 14, 4th Main, Chamarajpet, Bengaluru - 560018, Karnataka",
+      "admissionDate": "2019-06-20",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 25,
+      "lateFine": 0,
+      "paidAmount": 42000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 21000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0060"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 21000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0061"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-028",
+      "rollNo": 1228,
+      "name": "Karthik Subramaniam",
+      "className": "12",
+      "section": "A",
+      "parentName": "Ravi Subramaniam",
+      "phone": "+91 98450 11228",
+      "address": "Staff Quarters, Block A, Delahio School Campus, Bengaluru - 560043, Karnataka",
+      "admissionDate": "2019-06-24",
+      "feePlan": "Staff Ward Concession",
+      "tuition": 12500,
+      "scholarshipPct": 50,
+      "lateFine": 0,
+      "paidAmount": 8750,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 4375,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0062"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 4375,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0063"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-029",
+      "rollNo": 1229,
+      "name": "Riya Sen",
+      "className": "12",
+      "section": "B",
+      "parentName": "Anirban Sen",
+      "phone": "+91 98450 11229",
+      "address": "No. 39, 2nd Cross, Cooke Town, Bengaluru - 560005, Karnataka",
+      "admissionDate": "2019-06-26",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 0,
+      "lateFine": 1200,
+      "paidAmount": 30000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 15000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0064"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 15000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0065"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-030",
+      "rollNo": 1230,
+      "name": "Abhinav Jain",
+      "className": "12",
+      "section": "A",
+      "parentName": "Pankaj Jain",
+      "phone": "+91 98450 11230",
+      "address": "No. 72, 9th Cross, Wilson Garden, Bengaluru - 560027, Karnataka",
+      "admissionDate": "2019-06-28",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 20000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 10000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0066"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 10000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0067"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-031",
+      "rollNo": 1231,
+      "name": "Shreya Ghosh",
+      "className": "12",
+      "section": "C",
+      "parentName": "Debashish Ghosh",
+      "phone": "+91 98450 11231",
+      "address": "No. 11, 3rd Main, CV Raman Nagar, Bengaluru - 560093, Karnataka",
+      "admissionDate": "2019-07-02",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 56000,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 28000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0068"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 28000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0069"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-032",
+      "rollNo": 1232,
+      "name": "Aditya Prabhu",
+      "className": "12",
+      "section": "B",
+      "parentName": "Suresh Prabhu",
+      "phone": "+91 98450 11232",
+      "address": "No. 27, 7th Main, Basaveshwaranagar, Bengaluru - 560079, Karnataka",
+      "admissionDate": "2019-07-04",
+      "feePlan": "Standard",
+      "tuition": 56000,
+      "scholarshipPct": 0,
+      "lateFine": 250,
+      "paidAmount": 45000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 22500,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0070"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 22500,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0071"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-033",
+      "rollNo": 833,
+      "name": "Nandini Rao",
+      "className": "8",
+      "section": "C",
+      "parentName": "Murali Rao",
+      "phone": "+91 98450 11233",
+      "address": "No. 60, 5th Cross, Padmanabhanagar, Bengaluru - 560070, Karnataka",
+      "admissionDate": "2023-07-10",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 25000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 12500,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0072"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 12500,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0073"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-034",
+      "rollNo": 834,
+      "name": "Farhan Ali",
+      "className": "8",
+      "section": "B",
+      "parentName": "Iqbal Ali",
+      "phone": "+91 98450 11234",
+      "address": "No. 19, 2nd Cross, Tilak Nagar, Bengaluru - 560041, Karnataka",
+      "admissionDate": "2023-07-12",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 0,
+      "lateFine": 1200,
+      "paidAmount": 15000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 7500,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0074"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 7500,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0075"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-035",
+      "rollNo": 835,
+      "name": "Gautam Yadav",
+      "className": "8",
+      "section": "A",
+      "parentName": "Ramesh Yadav",
+      "phone": "+91 98450 11235",
+      "address": "No. 4, 6th Main, Yeshwanthpur, Bengaluru - 560022, Karnataka",
+      "admissionDate": "2023-07-14",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 28500,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 14250,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0076"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 14250,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0077"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-036",
+      "rollNo": 836,
+      "name": "Trisha Menon",
+      "className": "8",
+      "section": "C",
+      "parentName": "Anoop Menon",
+      "phone": "+91 98450 11236",
+      "address": "No. 8, 3rd Cross, Kothanur, Bengaluru - 560077, Karnataka",
+      "admissionDate": "2023-07-17",
+      "feePlan": "Standard",
+      "tuition": 38000,
+      "scholarshipPct": 25,
+      "lateFine": 0,
+      "paidAmount": 28500,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 14250,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0078"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 14250,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0079"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-037",
+      "rollNo": 937,
+      "name": "Meera Pillai",
+      "className": "9",
+      "section": "A",
+      "parentName": "Sreekumar Pillai",
+      "phone": "+91 98450 11237",
+      "address": "No. 33, 1st Cross, Ulsoor, Bengaluru - 560008, Karnataka",
+      "admissionDate": "2022-07-04",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 0,
+      "lateFine": 1200,
+      "paidAmount": 24000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 12000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0080"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 12000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0081"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-038",
+      "rollNo": 938,
+      "name": "Aditya Kulkarni",
+      "className": "9",
+      "section": "B",
+      "parentName": "Sandeep Kulkarni",
+      "phone": "+91 98450 11238",
+      "address": "No. 55, 4th Main, Vidyaranyapura, Bengaluru - 560097, Karnataka",
+      "admissionDate": "2022-07-06",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 10,
+      "lateFine": 0,
+      "paidAmount": 37800,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 18900,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0082"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 18900,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0083"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-039",
+      "rollNo": 939,
+      "name": "Ishita Banerjee",
+      "className": "9",
+      "section": "C",
+      "parentName": "Arindam Banerjee",
+      "phone": "+91 98450 11239",
+      "address": "No. 2, 5th Cross, Bellandur, Bengaluru - 560103, Karnataka",
+      "admissionDate": "2022-07-08",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 0,
+      "lateFine": 0,
+      "paidAmount": 16000,
+      "examBlocked": true,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 8000,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0084"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 8000,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0085"
+        }
+      ]
+    },
+    {
+      "id": "STU-2025-040",
+      "rollNo": 940,
+      "name": "Vihaan Gupta",
+      "className": "9",
+      "section": "A",
+      "parentName": "Manish Gupta",
+      "phone": "+91 98450 11240",
+      "address": "No. 16, 8th Main, RT Nagar, Bengaluru - 560032, Karnataka",
+      "admissionDate": "2022-07-11",
+      "feePlan": "Standard",
+      "tuition": 42000,
+      "scholarshipPct": 0,
+      "lateFine": 250,
+      "paidAmount": 42250,
+      "examBlocked": false,
+      "lastReminderAt": null,
+      "paymentHistory": [
+        {
+          "date": "2025-05-05",
+          "amount": 21125,
+          "mode": "CASH",
+          "receiptNo": "RCPT-2025-0086"
+        },
+        {
+          "date": "2025-06-06",
+          "amount": 21125,
+          "mode": "UPI",
+          "receiptNo": "RCPT-2025-0087"
+        }
+      ]
+    }
+  ],
+  "daybookLedger": [
+    {
+      "id": "TXN-1001",
+      "studentId": "STU-2025-013",
+      "studentName": "Riya Agarwal",
+      "className": "9",
+      "receiptNo": "RCPT-2026-0880",
+      "cash": 4000,
+      "upi": 0,
+      "discount": 0,
+      "total": 4000,
+      "mode": "CASH",
+      "collectedBy": "ACCOUNTANT",
+      "note": "Part payment - Term 1",
+      "time": "09:12"
+    },
+    {
+      "id": "TXN-1002",
+      "studentId": "STU-2025-019",
+      "studentName": "Aisha Khan",
+      "className": "10",
+      "receiptNo": "RCPT-2026-0881",
+      "cash": 0,
+      "upi": 6000,
+      "discount": 0,
+      "total": 6000,
+      "mode": "UPI",
+      "collectedBy": "ADMIN",
+      "note": "UPI ref 4471 8890 2215",
+      "time": "09:48"
+    },
+    {
+      "id": "TXN-1003",
+      "studentId": "STU-2025-025",
+      "studentName": "Lakshmi Narayan",
+      "className": "12",
+      "receiptNo": "RCPT-2026-0882",
+      "cash": 5000,
+      "upi": 5500,
+      "discount": 500,
+      "total": 10500,
+      "mode": "SPLIT",
+      "collectedBy": "ACCOUNTANT",
+      "note": "Split payment at counter",
+      "time": "10:26"
+    },
+    {
+      "id": "TXN-1004",
+      "studentId": "STU-2025-003",
+      "studentName": "Rohan Verma",
+      "className": "8",
+      "receiptNo": "RCPT-2026-0883",
+      "cash": 2000,
+      "upi": 0,
+      "discount": 0,
+      "total": 2000,
+      "mode": "CASH",
+      "collectedBy": "ADMIN",
+      "note": "Late fine settled in cash",
+      "time": "11:05"
+    },
+    {
+      "id": "TXN-1005",
+      "studentId": "STU-2025-028",
+      "studentName": "Karthik Subramaniam",
+      "className": "12",
+      "receiptNo": "RCPT-2026-0884",
+      "cash": 0,
+      "upi": 8750,
+      "discount": 0,
+      "total": 8750,
+      "mode": "UPI",
+      "collectedBy": "ACCOUNTANT",
+      "note": "Staff ward top-up",
+      "time": "11:41"
+    },
+    {
+      "id": "TXN-1006",
+      "studentId": "STU-2025-034",
+      "studentName": "Farhan Ali",
+      "className": "8",
+      "receiptNo": "RCPT-2026-0885",
+      "cash": 3500,
+      "upi": 1500,
+      "discount": 0,
+      "total": 5000,
+      "mode": "SPLIT",
+      "collectedBy": "ADMIN",
+      "note": "Sibling adjustment",
+      "time": "12:18"
+    }
+  ],
+  "auditLog": [
+    {
+      "action": "ROLE_SWITCH",
+      "detail": "Session started as ADMIN",
+      "role": "ADMIN",
+      "time": "08:55"
+    },
+    {
+      "action": "FEE_PAYMENT",
+      "detail": "RCPT-2026-0880 recorded for Riya Agarwal (INR 4,000 cash)",
+      "role": "ACCOUNTANT",
+      "time": "09:12"
+    },
+    {
+      "action": "BULK_REMIND",
+      "detail": "Reminder queued for 11 defaulters of Class 10",
+      "role": "ACCOUNTANT",
+      "time": "09:31"
+    },
+    {
+      "action": "FEE_WAIVE",
+      "detail": "Late fine waived for Rohan Verma (INR 500)",
+      "role": "ADMIN",
+      "time": "10:02"
+    },
+    {
+      "action": "FEE_PAYMENT",
+      "detail": "RCPT-2026-0882 recorded for Lakshmi Narayan (INR 10,500 split)",
+      "role": "RECEPTIONIST",
+      "time": "10:26"
+    },
+    {
+      "action": "LEDGER_REFRESH",
+      "detail": "Daybook refreshed by ADMIN",
+      "role": "ADMIN",
+      "time": "12:20"
+    }
+  ]
+}

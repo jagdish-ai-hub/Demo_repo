@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: delahio-school-erp
+    runtime: node
+    plan: free
+    region: singapore
+    branch: main
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20.20.2
+      - key: NPM_CONFIG_PRODUCTION
+        value: "false"
